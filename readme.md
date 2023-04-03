@@ -6,5 +6,5 @@
 
 3. 点击Run
 
-![]()
+![](https://github.com/bin96/SimulinkBlockFinder/blob/master/Img/Img.jpg)
 
